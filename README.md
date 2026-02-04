@@ -1,0 +1,1 @@
+# AI-Based-Forest-Fire-Smoke-Detection
